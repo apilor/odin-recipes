@@ -7,8 +7,8 @@
 }
 
 .link {
-    font-size: 18px;
-
+    font-size: 24px;
+    text-align: center;
 }
 
 .recipe {
@@ -41,5 +41,9 @@ ul, li, ol{
     margin-left: auto;
     margin-right: auto;
     
+}
+
+body {
+    background-color: rgb(205, 253, 205);
 }
 
