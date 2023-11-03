@@ -1,0 +1,45 @@
+
+.header {
+    font-weight: 800;
+    font-size: 62px;
+    text-align: center;
+
+}
+
+.link {
+    font-size: 18px;
+
+}
+
+.recipe {
+    font-weight: 800;
+    font-size: 62px;
+    text-align: center;
+
+}
+
+.recipe.desc {
+    font-weight: normal;
+    font-size: 22px;
+}
+
+.recipe.items {
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+}
+
+ul, li, ol{
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
